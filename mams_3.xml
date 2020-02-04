@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mams3">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="sl">Simfonije za dve violini in bas</title>
+            <title xml:lang="en">Symphonies for Two Violins and Bass</title>
+            <author>
+               <forename>Amandus</forename>
+               <surname>Ivančič</surname>
+            </author>
+            <respStmt>
+               <resp>Urednik / Editor</resp>
+               <name>Danilo Pokorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Urednica spletne izdaje / Editor of the Online Edition</resp>
+               <name ref="https://orcid.org/0000-0002-8340-1082">Metoda Kokole</name>
+            </respStmt>
+            <respStmt>
+               <resp>Avtor dodatnih besedil / Author of Added Texts</resp>
+               <name>Maciej Jochymczyk</name>
+            </respStmt>
+            <respStmt>
+               <resp>Prevod dodatnih besedil v slovenščino / Translation of Added Texts into
+                  Slovenian</resp>
+               <name>Metoda Kokole</name>
+            </respStmt>
+            <respStmt>
+               <resp>Lektura dodanih angleških besedil / English Proofreading of Added Texts</resp>
+               <name>Michael Talbot</name>
+            </respStmt>
+            <respStmt>
+               <resp>Lektura dodanih slovenskih besedil / Slovenian Proofreading of Added
+                  Texts</resp>
+               <name>???????????</name>
+            </respStmt>
+            <funder xml:lang="sl">Pretvorba in dopolnila so nastala v okviru raziskovalnega programa
+               ARRS P6-0004 (Raziskave slovenske glasbene preteklosti).</funder>
+            <funder xml:lang="en">The digitalisation and additional texts were done within the
+               research programme financed by ARRS P6-0004 (Research in the History of Music in
+               Slovenia).</funder>
+         </titleStmt>
+         <editionStmt>
+            <p xml:lang="sl">Prva izdaja e-knjige (pdf/html) v vseh pogledih reproducira prvi natis
+               tiskane izdaje (1984), le da sta dodani poglavji Novi uvod (Maciej Jochymczyk) in
+               Corrigenda (Maciej Jochymczyk).</p>
+            <p xml:lang="en">The first online edition (pdf/html) is in all aspects a reproduction of
+               the first printed edition (1983), with the exception of the added New Introduction
+               (Maciej Jochymczyk) and Corrigenda (Maciej Jochymczyk).</p>
+         </editionStmt>
+         <publicationStmt>
+            <!-- Prevodi???: Izdajatelj / Publisher -->
+            <authority>ZRC SAZU, Muzikološki inštitut, SAZU</authority>
+            <!-- Založnik / Issuer -->
+            <publisher>Založba ZRC (Novi trg 2, SI–1000 Ljubljana)</publisher>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>Ljubljana</pubPlace>
+            <date when="2020">2020</date>
+            <availability>
+               <licence/>
+               <p rend="CIP"/>
+            </availability>
+            <idno type="ISSN"/>
+            <idno type="ISMN"/>
+            <idno type="DOI"/>
+            <idno type="CIP"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Monumenta artis musicae Sloveniae 3</p>
+         </seriesStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract xml:lang="sl">
+            <p>Amandus Ivanschiz (Ivančič) sodi med danes manj znane skladatelje 18. stoletja,
+               čeprav je bil v svojem času razmeroma močno prisoten v srednjeevropskem glasbenem
+               prostoru. O tem priča ok. 200 njegovih skladb, ki so se v prepisih ohranile širom
+               srednje Evrope: v slovenskih, hrvaških, avstrijskih in čeških arhivih. Izvajalcem in
+               raziskovalcem glasbene kulture je še vedno dostopen le majhen del njegovega opusa.
+               Tretji zvezek zbirke MAMS v sodobni notni izdaji prinaša tri Ivančičeve »simfonije«
+               za dve violini in bas oz. triosonate, kakršne so bile značilne za dunajske
+               skladateljske kroge 50-ih in 60-ih letih 18. stoletja. Zvezek je opremljen z uvodno
+               študijo o življenju in delih patra Amandusa ter z novim uvodom <ref
+                  target="https://orcid.org/0000-0003-0967-9681">Macieja Jochymczyka</ref>, ki
+               prinaša novosti o skladatelju in popravke zgodnejšega vedenja.</p>
+         </abstract>
+         <abstract xml:lang="en">
+            <p>Amandus Ivanschiz (in Slovenian literature “Ivančič”) belongs to a group of today
+               little known 18th-century composers. He was, however, in his own time all over
+               Central Europe well known and largely copied monastic composer. Around 200
+               compositions survived to this date in various copies now preserved in Slovenian,
+               Croatian, Austrian, Czech, etc. archives. However, only a few of his compositions are
+               available to modern performers. In volume 3 of the Monumenta artis musicae Sloveniae
+               series are published three “Simphoniae” for two violins and bass, i.e. triosonatas,
+               typical for Viennese musical circles of the 1750s and 1760s. The music is accompanied
+               by an introductory presentation of the composer’s works as well as by a New
+               Introduction and Corrigenda by <ref target="https://orcid.org/0000-0003-0967-9681"
+                  >Maciej Jochymczyk</ref> bringing to the reader’s attention new information on
+               father Amandus and corrigenda of the earlier edition.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <docAuthor>
+               <forename>Amandus</forename>
+               <surname>Ivančič</surname>
+            </docAuthor>
+            <docTitle>
+               <titlePart>Simfonije za dve violini in bas / Symphonies for Two Violins and
+                  Bass</titlePart>
+            </docTitle>
+            <docImprint>
+               <publisher>ZRC SAZU, Muzikološki inštitut, SAZU</publisher>
+               <pubPlace>Ljubljana</pubPlace>
+               <docDate>2020</docDate>
+            </docImprint>
+         </titlePage>
+         <divGen type="cip" xml:id="cip" xml:lang="sl" corresp="#en-cip">
+            <head>Kolofon</head>
+         </divGen>
+         <divGen type="cip" xml:id="en-cip" xml:lang="en" corresp="#cip">
+            <head>Colophon</head>
+         </divGen>
+         <divGen type="toc" xml:id="toc" xml:lang="sl" corresp="#en-toc">
+            <head>Kazalo vsebine</head>
+         </divGen>
+         <divGen type="toc" xml:id="en-toc" xml:lang="en" corresp="#toc">
+            <head>Table of Contents</head>
+         </divGen>
+         <divGen type="search" xml:id="search" xml:lang="sl" corresp="#en-search">
+            <head>Iskanje</head>
+         </divGen>
+         <divGen type="search" xml:id="en-search" xml:lang="en" corresp="#search">
+            <head>Search</head>
+         </divGen>
+         <div type="preface" xml:lang="sl" xml:id="noviuvod" corresp="#newintroduction">
+            <head xml:id="mams3-head-9">Novi uvod</head>
+            <p xml:id="mams3-p-8">Prve raziskave življenja in dela Amadusa Ivanschiza<note
+                  place="foot" xml:id="ftn1" n="1">V vseh virih, avtografih in drugih, je priimek
+                  ohranjen zgolj v tej obliki; vse ostalo so sodobne slovanske oblike, ki se
+                  pojavljajo le v sekundarni literaturi (Ivančić, Ivančič, Ivanšič itd.). Gl. <ref
+                     target="http://books.google.com/books?vid=9788370992071">Maciej Jochymczyk, <hi
+                        rend="italic">Amandus Ivanschiz – His Life and Music: With a Thematic
+                        Catalog of Works</hi>
+                  </ref> (Krakov: Musica Iagellonica, 2016), 23–24, 26–46.</note> (v dosedanji
+               slovenski literaturi imenovan Amandus Ivančič), ki segajo v dvajseta leta 20.
+               stoletja, so močno zaznamovali slovenski avtorji. Med prvimi je njegovo ime omenil
+               Stanko Premrl, duhovnik, skladatelj in glasbenik, ki je leta 1922 poročal o glasbenih
+               rokopisih najdenih v ljubljanski stolnici, med katerimi je bila tudi <hi
+                  rend="italic">Missa Pastoritia</hi> brata Amandusa. Premrl je v skladu s tedanjo
+               prakso skladateljevo ime iz »Ivantschitsch« poslovenil v Ivančič, saj je bil
+               prepričan, da gre za slovenskega skladatelja.<note place="foot" xml:id="ftn2" n="2"
+                  >Stanko Premrl, »Iz glasbenega arhiva ljubljanske stolnice«, <ref
+                     target="http://www.dlib.si/?URN=URN:NBN:SI:DOC-T10R9VVA">
+                     <hi rend="italic">Cerkveni glasbenik</hi> 45, št. 1–2 (1922)</ref>: 20. Zapisal
+                  je takole: »Po imenu smemo s precejšnjo verjetnostjo, če ne z gotovostjo sklepati,
+                  da je bil domačin, Slovenec«. Njegovo sklepanje je bilo pozneje ovrženo. </note>
+               Več kot petdeset let poznejše raziskave Danila Pokorna predstavljajo novo poglavje v
+               poznavanju Ivanschiza. Pokorn se je v svoji doktorski disertaciji iz leta 1977
+               osredotočil predvsem na skladateljeva inštrumentalna dela.<note place="foot"
+                  xml:id="ftn3" n="3">Danilo Pokorn, »Amandus Ivančič in njegovo posvetno
+                  skladateljsko delo« (Doktorska disertacija, Univerza v Ljubljani, 1977).</note>
+               Sad njegovega dela sta notni izdaji v zbirki <hi rend="italic">Monumenta artis
+                  musicae Sloveniae</hi> (zvezek 1 leta 1983 – tu ponatisnjen – in zvezek 3 leta
+               1984) ter izdaja v antologiji <hi rend="italic">The Symphony 1720–1840</hi>.<note
+                  place="foot" xml:id="ftn4" n="4">Amandus Ivančič, <hi rend="italic">Sonate a
+                     tre</hi>, ur. Danilo Pokorn, Monumenta artis musicae Sloveniae 1 (Ljubljana:
+                  SAZU, 1983); Amandus Ivančič, <hi rend="italic">Simfonije za dve violini in bas /
+                     Symphonies for Two Violins and Bass</hi>, ur. Danilo Pokorn, Monumenta artis
+                  musicae Sloveniae 3 (Ljubljana: SAZU, 1984); in Amandus Ivančič, <hi rend="italic"
+                     >Two Symphonies: Them. Index F1, D9 </hi>[…], ur. Danilo Pokorn, The Symphony
+                  1720–1840, Series B, 14 (New York: Garland, 1985).</note> V zadnjih letih so bile
+               opravljene poglobljene nove študije o življenju in delu Amandusa Ivanschiza, ki so
+               pomembno spremenile naše poznavanje tega skladatelja. Zato so ob ponovni izdaji
+               starejših del nujno potrebna nekatera opozorila. Spodnje besedilo podaja dopolnila in
+               popravke k obstoječim besedilom sedaj že pokojnega Danila Pokorna.</p>
+            <p xml:id="mams3-p-9">Amandus Ivanschiz je bil krščen 24. decembra 1727 v dunajskem
+               Novem mestu (Wiener Neustadt) v Avstriji kot Matthias Leopold.<note place="foot"
+                  xml:id="ftn5" n="5">Posodobljeni življenjepis je tu povzet po: Jochymczyk, <hi
+                     rend="italic">Amandus Ivanschiz</hi>, 21–48. </note> Verjetno se je rodil
+               istega dne ali kak dan prej. Njegov oče (Matthias Joseph), poročen v Wiener
+               Neustadtu, je izhajal iz vasi Baumgarten na avstrijskem Gradiščanskem (danes
+               pokrajina Burgenland, Avstrija), kjer je takrat živela hrvaška manjšina. Mladi
+               Matthias Leopold je verjetno proti koncu leta 1742 vstopil v red Pavlincev in si
+               nadel ime Amandus. Po opravljenem noviciatu v samostanu Ranna je pri 16. letih, 25.
+               decembra 1743, sprejel redovne zaobljube. Medtem ko se je skupaj z ostalimi brati
+               pripravljal na posvetitev, se je posvetil študiju v samostanih Maria Trost in Wiener
+               Neustadt. V zadnjem je bil 30. maja 1744 posvečen v štiri nižje redovne nazive in bil
+               pozneje posvečen v subdiakona (1. marca 1749) in diakona (21. februarja 1750).
+               Triindvajsetletni brat Amandus je moral biti takrat že cenjeni glasbenik, saj mu je
+               bila 5. avgusta 1750 zaupana posvetitev novozgrajenih orgel v stolni cerkvi v Wiener
+               Neustadtu. Ivanschiz je bil v duhovnika posvečen 15. novembra 1750 in deset dni
+               pozneje (25. novembra) je že maševal v pavlinskem samostanu svojega rodnega kraja.
+               Ohranil se je tiskani izvod pridige, ki jo je takrat držal kapucin Fulgentius
+                  Neostadiensis.<note place="foot" xml:id="ftn6" n="6">Faksimile tega tiska je
+                  objavljen v: Jochymczyk, <hi rend="italic">Amandus Ivanschiz</hi>, 477–498.</note>
+               Leta 1751 je bil Ivanschiz poslan v Rim, kjer je delal kot pomočnik (<hi
+                  rend="italic">socius</hi>) glavnega prokuratorja pavlinskega reda do leta 1754, ko
+               se je za kratek čas vrnil v Wiener Neustadt. Kmalu nato so ga prestavili v Maria
+               Trost, kjer je njegova prisotnost zabeležena do leta 1755. Njegovo ime dvakrat
+               najdemo tudi v računskih knjigah jezuitske cerkve sv. Egidija v Gradcu (danes graška
+               stolnica): leta 1755 (“Pro curru, quo ex Mariae Consolatricis Monasterio ad probandam
+               musicam vectus est V. P. Compositor Amandus Ivantschiz”) in leta 1758 (“Pro 5
+               lytaniis et uno Sacro Cantato a V. P. Amando Ivantschiz compositis”).<note
+                  place="foot" xml:id="ftn7" n="7">Ta podatek je poznal že Danilo Pokorn. Gl.
+                  Ivančič, <hi rend="italic">Sonate a tre</hi>, <hi rend="smallcaps">x.</hi>
+               </note> Na podlagi teh dokumentov lahko sklepamo, da ni bil le skladatelj del, ki so
+               jih naročili jezuiti, temveč je sodeloval tudi pri izvedbah. Eno najpomembnejših
+               odkritij v zadnjih letih pa je datum skladateljeve smrti. Redovni vpis in nekrolog
+               potrjujeta, da je Amandus Ivanschiz umrl leta 1758 star le 31 let. Kaže, da je vse do
+               konca svojih dni ostal v samostanu Maria Trost, saj je zadnja navedena beležka iz
+               jezuitskih knjig prav iz tega leta.</p>
+            <p xml:id="mams3-p-10">Vse do takrat so nekateri raziskovalci konec skladateljevih
+               aktivnosti postavljali v osemdeseta ali celo devetdeseta leta 18. stoletja,<note
+                  place="foot" xml:id="ftn8" n="8">Gl. na primer Ivančič, <hi rend="italic">Sonate a
+                     tre</hi>, x; in Lovro Županović, <hi rend="italic">Stoljeća hrvatske
+                     glazbe</hi> (Zagreb: Školska knjiga, 1980), 104.</note> čeprav so videli
+               Ivanschiza kot znanilca novega glasbenega sloga. Presenetljivo zgodnje leto
+               Ivanschizeve smrti postavlja njegov znani glasbeni opus, ki jasno pripada zgodnjemu
+               klasicizmu, v povsem novo luč ter terja spremenjen pogled na slogovne spremembe
+               glasbenega jezika okoli sredine osemnajstega stoletja.</p>
+            <p xml:id="mams3-p-11">Kljub zgodnji smrti je Ivanschiz zapustil presenetljivo visoko
+               število glasbenih del: okoli 20 simfonij, 15 godalnih triov, 17 maš, 13 litanij, 7
+               krajših kantat (vse imenuje <hi rend="italic">Oratorium</hi>), 9 uglasbitev
+               marijanskih antifon, 8 arij in duetov na neliturgična besedila, večernice in <hi
+                  rend="italic">Te Deum</hi>.<note place="foot" xml:id="ftn9" n="9">Več o
+                  skladatelju in njegovih skladbah ter tematski katalog gl. v: Jochymczyk, <hi
+                     rend="italic">Amandus Ivanschiz</hi>. Danilo Pokorn navaja več skladb, saj je
+                  vključil tudi dela nepreverjenega izvora in tiska, katerih avtorstvo je bilo
+                  pozneje popravljeno.</note> Nekatera od teh del so preživela v več, celo po ducat
+               prepisih, ki se danes nahajajo v številnih predvsem srednjeevropskih nahajališčih v
+               Avstriji, na Hrvaškem, v Češki republiki, v Nemčiji, na Madžarskem, Poljskem,
+               Slovaškem, pa tudi v Belgiji, na Švedskem in v Švici. Iz tega sledi, da je bila
+               glasba očeta Amandusa znana zelo širokemu občinstvu in ga umešča med najbolj
+               priljubljene skladatelje-redovnike osemnajstega stoletja. </p>
+            <p xml:id="mams3-p-12">V svoji doktorski disertaciji Danilo Pokorn Ivanschizeva komorna
+               dela deli v štiri skupine: sonate, trie, divertimente in simfonije.<note place="foot"
+                  xml:id="ftn10" n="10">Pokorn, »Amandus Ivančič«, 134–143.</note> Zadnja dva izraza
+               se pojavljata tudi kot oznaki orkestralnih del. Ta delitev na štiri skupine, ki
+               temelji na izvirnih oznakah na ohranjenih rokopisih, se je ohranila tudi v izdajah,
+               ki sta jih pripravila Pokorn sam<note place="foot" xml:id="ftn11" n="11">Ivančič, <hi
+                     rend="italic">Sonate a tre</hi>; Ivančič, <hi rend="italic"
+                  >Simfonije</hi>.</note> in Paul M. Douglas.<note place="foot" xml:id="ftn12"
+                  n="12">Amandus Ivanschiz, <hi rend="italic">Six sonatas a tre for flute, viola,
+                     and basso continuo</hi>, zv. 1, <hi rend="italic">Nos. 1–3</hi>, ur. Paul M.
+                  Douglas (London: Nova Music, 1982).</note> A poglobljena primerjalna analiza vseh
+               virov (številnih Pokorn še ni poznal) je pozneje pripeljala do precej drugačne slike.
+               Ne glede na izvirne oznake na rokopisih prav vse Ivanschizeve komorne skladbe sodijo
+               v zvrst godalnega tria, zvrst, ki je bila v osemnajstem stoletju izjemno
+               priljubljena, čeprav se danes zdi zanemarjena.<note place="foot" xml:id="ftn13"
+                  n="13">Na pomen te zvrsti na primer kaže dejstvo, da je število godalnih triov,
+                  napisanih v letih med 1750 in 1780 občutno prekašalo število takrat nastalih
+                  godalnih kvartetov. Gl. Barry S. Brook, »Haydn’s String Trios: A Misunderstood
+                  Genre«, <hi rend="italic">Current Musicology</hi> 36 (1983): 61–77. Vsekakor ni
+                  razloga, da bi ta dela označevali kot tista, ki sodijo »v baročno zvrst
+                  triosonate«, kot je presodil Pokorn (Ivančič, <hi rend="italic">Sonate a tre</hi>,
+                     <hi rend="smallcaps">xi</hi>).</note> Najpogostejše oznake, ki jih najdemo na
+               sprednjih straneh ovojev rokopisov so: »Trio«, »A tre«, »Divertimento« in »Sonata«.
+               Redkeje so skladbe označene kot »Simfonia« (ali »Sinfonia«) in samo v enem primeru
+               »Sonatina«. Kaže, da so izrazi uporabljeni naključno, nepovezano z dejansko obliko in
+               slogom samih kompozicij. Ena in ista skladba ima včasih drugačen naslov v prepisih
+               različnega izvora. Nekatere skladbe so celo drugače naslovljene v rokopisnih prepisih
+               različnega izvora. <hi rend="italic">Trio in C</hi> (T.C.1)<note place="foot"
+                  xml:id="ftn14" n="14">Kataložne številke se nanašajo na Ivanschizeva dela, kot so
+                  navedena v: Jochymczyk, <hi rend="italic">Amandus Ivanschiz</hi>.</note> je, na
+               primer, naslovljen kot »Trio«,<note place="foot" xml:id="ftn15" n="15">D-B, <ref
+                     target="http://resolver.staatsbibliothek-berlin.de/SBB00017A2800000000">Mus.ms.
+                     20375</ref>; D-RH, Ms 437, <ref
+                     target="https://opac.rism.info/search?id=450016955&amp;View=rism">Ms
+                  867</ref>.</note> »Divertimento«,<note place="foot" xml:id="ftn16" n="16">CZ-Bu,
+                  Skř 17-525.714.</note> »Sonata«,<note place="foot" xml:id="ftn17" n="17">D-KA,
+                     <ref target="https://nbn-resolving.de/urn:nbn:de:bsz:31-22650">Mus. Hs.
+                     230</ref>.</note> »Sonatina«<note place="foot" xml:id="ftn18" n="18">D-WÜd,
+                  KBD/KES K7 Ms091.</note> in »A tre«.<note place="foot" xml:id="ftn19" n="19">A-LA,
+                     <ref target="https://opac.rism.info/search?id=603000178&amp;View=rism"
+                     >254</ref>.</note> Na podlagi podrobnejše analize ohranjenih prepisov
+               Ivanschizevih del lahko sklepamo, da je bila uporaba enega ali drugega naslova
+               povezana predvsem z lokalnim okoljem in tradicijo. Da je bila taka terminološka
+               svoboda glede uporabe terminov za nove zvrsti je bila v 18. stoletju povsem običajna,
+               beremo tudi v muzikološki literaturi.<note place="foot" xml:id="ftn20" n="20">Gl. na
+                  primer James Webster, »Towards a History of Viennese Chamber Music in the Early
+                  Classical Period«, <hi rend="italic">Journal of the American Musicological
+                     Society</hi> 27, št. 2 (1974): 213.</note>
+            </p>
+            <p xml:id="mams3-p-13">Vsa Ivanschizeva avtentična komorna dela so si podobna, predvsem
+               glede zasedb in oblike. Vsa (z eno izjemo: <hi rend="italic">Trio in F</hi> T.F.1) so
+               tridelna in sledijo modelu: (1) počasni stavek – (2) menuet s triom – (3) hitri
+               stavek. Vedno nastopajo trije glasovi za solo glasbila: najvišji part je namenjen
+               violini, srednji violini ali violi ter spodnji, v virih imenovan »basso« ali
+               »violoncello«, godalu nizkega registra.<note place="foot" xml:id="ftn21" n="21"
+                  >Ivanschiz je bil očitno eden prvih skladateljev, ki so uporabljali zasedbo,
+                  značilno za visoko klasičen godalni trio (violina, viola in čelo). Gl. Maciej
+                  Jochymczyk, <ref target="https://doi.org/10.2478/muso-2014-0007">»Some Remarks on
+                     the Formation of the Classical Style: Instrumental Music by Amandus
+                     Ivanschiz«</ref>, <hi rend="italic">Musicology Today</hi> 10 (2013).</note>
+            </p>
+            <p xml:id="mams3-p-14">Zgoraj povedano velja tudi za skladbe, ki jih je Danilo Pokorn
+               objavil v pričujočem tretjem zvezku zbirke <hi rend="italic">Monumenta artis musicae
+                  Sloveniae</hi>. Vse tri objavljene skladbe so objavljene z izvirnimi oznakami
+               (»Simfonia«), kot jih najdemo na ovojih rokopisov, ki so ohranjeni v Arhivu Društva
+               prijateljev glasbe na Dunaju (A-Wgm). Vendar pa je treba opozoriti, da tudi te
+               skladbe dejansko sodijo v zgoraj opisano zvrst in so nedvomno godalni trii. V drugih
+               prepisih so namreč te skladbe poimenovane tudi »Trio«,<note place="foot"
+                  xml:id="ftn22" n="22">D-DO, <ref
+                     target="https://opac.rism.info/search?id=450013483&amp;View=rism">Don Mus.Ms.
+                     822</ref>, danes v D-KA.</note> »Sonata à 3«<note place="foot" xml:id="ftn23"
+                  n="23">D-ZL, <ref
+                     target="https://opac.rism.info/search?id=456014392&amp;View=rism">brez
+                     signature</ref>, napačno pripisano Franzu Asplmayrju.).</note> in
+                  »Divertimento«.<note place="foot" xml:id="ftn24" n="24">A-Wgm, IX 1069.</note> Vse
+               tri se razlikujejo od drugih Ivanschizevih simfonij tako po obliki, tonalni zasnovi
+               kot tudi po glasbenem jeziku.<note place="foot" xml:id="ftn25" n="25">Gl. Jochymczyk,
+                     <hi rend="italic">Amandus Ivanschiz</hi>, 250–269.</note>
+            </p>
+            <p xml:id="mams3-p-15">Na tem mestu je treba povedati, da se v arhivu benediktinskega
+               samostana v avstrijskem Melku nahajajo nadaljnji štirje Ivanschizevi trii, ki jih je
+               očitno prepisal isti kopist in jih prav tako naslovil »Simfonia« (ali
+                  »Sinfonia«).<note place="foot" xml:id="ftn26" n="26">A-M, V 1429, V 1430, V 1431,
+                  V 1432. Rokopisi, hranjeni v Melku, niso zavedeni v tematskem katalogu,
+                  objavljenem v Jochymczyk, <hi rend="italic">Amandus Ivanschiz</hi>. Za to
+                  dragoceno in novo informacijo in pomoč v zvezi s tem virom se na tem mestu zato
+                  najlepše zahvaljujem dr. Johannesu Prominczelu, glasbeni arhiv v Melku.</note> Te
+               skladbe so bile nekoč gotovo v isti zbirki kot tiste, ki se danes nahajajo na Dunaju.
+               Na pripisih v Melku je na ovojih vidna stara prečrtana signatura, kot jo poznamo iz
+               virov v A-Wgm (XIII 1325/gg).<note place="foot" xml:id="ftn27" n="27">Prvotno so
+                  imeli vsi trije rokopisi v arhivu dunajskega Društva prijateljev glasbe eno samo
+                  skupno signaturo. Pozneje so trioma v B duru in v A duru dodali novi signaturi:
+                  XIII 8549/gg in XIII 8550/gg. Za ta podatek se na tem mestu zahvaljujem dr. Marku
+                  Motniku iz arhiva A-Wgm.</note> Žal je izvor teh skladb neznan, kot tudi še ni
+               raziskano, zakaj je nekaj rokopisov iz A-Wgm v nekem trenutno prešlo z Dunaja v
+               glasbeno zbirko samostana v Melku.<note place="foot" xml:id="ftn28" n="28">Pokorn
+                  meni, da je rokopise A-Wgm pridobil okoli leta 1820. Gl. Ivančič, <hi
+                     rend="italic">Simfonije</hi>, <hi rend="smallcaps">x</hi>. Iz opomb na
+                  naslovnicah je razvidno, da so leta 1838 štiri od zgoraj omenjenih virov dodali
+                  zbirki v Melku. </note>
+            </p>
+            <p xml:id="mams3-p-16">Kot že rečeno je najnižji glas v Ivanschizevih triih namenjen
+               nizkim godalom (tj. čelu ali violonu). Ta glas v nobenem od znanih rokopisov nima
+               številk in skladbe se zato navadno izvajajo brez generalnega basa.<note place="foot"
+                  xml:id="ftn29" n="29">Ivanschizeve skladbe topogledno niso izjeme. Po mnenju
+                  Jamesa Websterja »so dokazi o tem, da so kontinuo v avstrijski posvetni komorni
+                  glasbi ok. 1750 opuščali, prepričljivi.« Webster, »Towards a History«, 243–244.
+                  Gl. tudi Unverricht, <hi rend="italic">Geschichte des Streichtrios</hi>,
+                  189–191.</note> Pri morebitni izvedbi skladb v Pokornovi redakciji se zato svetuje
+               izpust uredniško predlagane realizacije za »cembalo«. </p>
+            <docAuthor xml:id="mams3-docAuthor-2">Maciej Jochymczyk</docAuthor>
+            <closer xml:id="mams3-closer-1">Poslovenila Metoda Kokole</closer>
+         </div>
+         <div type="preface" xml:lang="en" xml:id="newintroduction" corresp="#noviuvod">
+            <head xml:id="mams3-head-10">New Introduction</head>
+            <p xml:id="mams3-p-17">The research on Amandus Ivanschiz<note place="foot"
+                  xml:id="ftn1-en" n="1">Other spellings of the composer’s surname adopted in Slavic
+                  musicological literature (“Ivančić”, “Ivančič”, “Ivanšič” etc.) are not
+                  encountered in the historical accounts. In his known autograph documents he
+                  consistently used the form “Ivanschiz”. See <ref
+                     target="http://books.google.com/books?vid=9788370992071">Maciej Jochymczyk, <hi
+                        rend="italic">Amandus Ivanschiz – His Life and Music: With a Thematic
+                        Catalog of Works</hi>
+                  </ref> (Kraków: Musica Iagellonica, 2016), 23–24, 26–46.</note> undertaken in the
+               twentieth century has been strongly influenced by Slovenian writers. One of the first
+               to mention his name was Stanko Premrl, a priest, composer and musician, who in 1922
+               reported on manuscripts found in the Ljubljana Cathedral that contained, among other
+               works, a <hi rend="italic">Missa Pastoritia</hi> by Fr. Amandus. Following the
+               general practice of the time Premrl chose to spell the composer’s name as “Ivančič”
+               (Slovenized version) rather than “Ivantschitsch” as written in the source itself, for
+               he was convinced that the author must have been a local composer.<note place="foot"
+                  xml:id="ftn2-en" n="2">Stanko Premrl, “Iz glasbenega arhiva ljubljanske stolnice”,
+                     <ref target="http://www.dlib.si/?URN=URN:NBN:SI:DOC-T10R9VVA">
+                     <hi rend="italic">Cerkveni glasbenik</hi> 45, no. 1–2 (1922)</ref>: 20. He
+                  wrote: “Po imenu smemo s precejšnjo verjetnostjo, če ne z gotovostjo sklepati, da
+                  je bil domačin, Slovenec.” [“His name suggests that he was most probably if not
+                  rather surely a native, a Slovenian.”]. This hypothesis was later proven to be
+                  wrong.</note> Over fifty years later, studies carried out by the Slovenian
+               musicologist Danilo Pokorn marked a turning point in the process of acquiring
+               knowledge about Ivanschiz. Pokorn’s doctoral dissertation, which he defended in
+               Ljubljana in 1977, focused on the composer’s instrumental music.<note place="foot"
+                  xml:id="ftn3-en" n="3">Danilo Pokorn, “Amandus Ivančič in njegovo posvetno
+                  skladateljsko delo” (PhD diss., Univerza v Ljubljani, 1977).</note> Tangible
+               fruits of his efforts were editions of Ivanschiz’s works which later appeared in the
+               series <hi rend="italic">Monumenta artis musicae Sloveniae</hi> (volume 1 in 1983 –
+               here republished – and volume 3 in 1984) and in <hi rend="italic">The Symphony
+                  1720–1840</hi>.<note place="foot" xml:id="ftn4-en" n="4">Amandus Ivančič, <hi
+                     rend="italic">Sonate a tre</hi>, ed. Danilo Pokorn, Monumenta artis musicae
+                  Sloveniae 1 (Ljubljana: SAZU, 1983); Amandus Ivančič, <hi rend="italic">Simfonije
+                     za dve violini in bas / Symphonies for Two Violins and Bass</hi>, ed. Danilo
+                  Pokorn, Monumenta artis musicae Sloveniae 3 (Ljubljana: SAZU, 1984); and Amandus
+                     Ivančič,<hi rend="italic"> Two Symphonies: Them. Index F1, D9 </hi>[…], ed.
+                  Danilo Pokorn, The Symphony 1720–1840, Series B, 14 (New York: Garland,
+                  1985).</note> However, a thorough research in the recent years changed
+               significantly our knowledge about the life and compositions of Amandus Ivanschiz
+               therefore some amendments are needed for the re-publication of earlier works. The
+               text here below brings necessary additions and corrections to the original
+               Introduction and the Critical Report by the deceased Danilo Pokorn.</p>
+            <p xml:id="mams3-p-18">Amandus Ivanschiz was baptized on 24 December 1727 in Wiener
+               Neustadt (Austria) and given the names Matthias Leopold.<note place="foot"
+                  xml:id="ftn5-en" n="5">The updated biography is based on: Jochymczyk, <hi
+                     rend="italic">Amandus Ivanschiz</hi>, 21–48.</note> He was most probably born
+               on the same day or shortly before. His father (Matthias Joseph) came from the village
+               of Baumgarten (today in the Burgenland, Austria) inhabited by the Croatian minority
+               and got married in Wiener Neustadt. Presumably by the end of 1742 young Matthias
+               Leopold entered the Pauline Order and took the name of Amandus. After spending his
+               novitiate at the monastery of Ranna he took his monastic vows at the age of 16 (25
+               December 1743). Then, together with other brothers preparing for the priesthood, he
+               underwent studies in Maria Trost and Wiener Neustadt. In Wiener Neustadt he received
+               the four lower orders (30 May 1744) and subsequently progressed to subdeacon (1 March
+               1749) and deacon (21 February 1750). The 23-year-old Fr. Amandus must have already
+               been a respected musician, since he was entrusted with the inauguration of a new
+               organ built in the Wiener Neustadt Cathedral on 5 August 1750. Ivanschiz received
+               ordination as a priest on 15 November 1750 and ten days later (25 November) presided
+               over his first mass at the Pauline monastery in his home town. A printed copy of the
+               sermon preached at this service by the Capuchin Fulgentius Neostadiensis has
+                  survived.<note place="foot" xml:id="ftn6-en" n="6">A facsimile of this print is
+                  published in: Jochymczyk, <hi rend="italic">Amandus Ivanschiz</hi>,
+                  477–498.</note> In 1751 Ivanschiz was sent to Rome, where he stayed until 1754,
+               working as an assistant (<hi rend="italic">socius</hi>) to the Procurator General of
+               the Pauline Order. In 1754 he returned to Wiener Neustadt, only to be sent back,
+               shortly thereafter, to Maria Trost, where his presence from at least 1755 has been
+               documented. His name appears twice in account books of the Jesuit Church of St.
+               Ägydius (today Grazer Dom): in 1755 (“Pro curru, quo ex Mariae Consolatricis
+               Monasterio ad probandam musicam vectus est V. P. Compositor Amandus Ivantschiz”) and
+               in 1758 (“Pro 5 lytaniis et uno Sacro Cantato a V. P. Amando Ivantschiz
+                  compositis”).<note place="foot" xml:id="ftn7-en" n="7">This fact was already known
+                  to Danilo Pokorn; see Ivančič, <hi rend="italic">Sonate a tre</hi>, <hi
+                     rend="smallcaps">xvi</hi>.</note> On this evidence, he not only wrote works
+               commissioned by the Jesuits, but evidently also participated in their performances.
+               One of the most important discoveries made in the last few years regarding the
+               composer’s biography is that of the date of his death. As confirmed by monastic
+               records and obituaries, Amandus Ivanschiz died in 1758 at the young age of 31. It
+               appears that until the end of his days he remained in Maria Trost, since the last of
+               the afore-mentioned entries in the Jesuit account books in Graz is from that same
+               year.</p>
+            <p xml:id="mams3-p-19">Previously, the end of the composer’s activity had been
+               hypothetically situated by some scholars in the 1780s or the 1790s.<note place="foot"
+                  xml:id="ftn8-en" n="8">See, for instance, Ivančič, <hi rend="italic">Sonate a
+                     tre</hi>, <hi rend="smallcaps">xvi</hi>; Lovro Županović, <hi rend="italic"
+                     >Stoljeća hrvatske glazbe</hi> (Zagreb: Školska knjiga, 1980), 104; Lovro
+                  Županović, <hi rend="italic">Centuries of Croatian Music</hi>, vol. 1, translated
+                  by Vladimir Ivir (Zagreb: Muzički informativni centar, 1984), 141–152.</note> Even
+               those authors who accepted these late dates nevertheless viewed Ivanschiz as one of
+               the forerunners of the new style. The surprisingly early date of his death places his
+               sizeable output, clearly belonging to the early Classical style, in a new light,
+               transforming our knowledge about the changes of musical language occurring in the
+               middle of the eighteenth century.</p>
+            <p xml:id="mams3-p-20">Despite his early death, Ivanschiz left behind a remarkable
+               number of compositions. His output comprises around 20 symphonies, 15 string trios,
+               17 masses, 13 litanies, 7 short cantatas (each named <hi rend="italic"
+               >Oratorium</hi>), 9 settings of Marian antiphons, 8 arias and duets on non-liturgical
+               texts, vespers and a <hi rend="italic">Te Deum</hi>.<note place="foot"
+                  xml:id="ftn9-en" n="9">For more information on the composer’s output and a
+                  thematic catalogue of his works, see Jochymczyk, <hi rend="italic">Amandus
+                     Ivanschiz</hi>. The number of compositions given by Danilo Pokorn is higher, as
+                  it includes pieces of doubtful or erroneous attribution.</note> Some of these
+               works have survived in a few, or even a dozen or so, copies, today located in
+               several, predominantly Central European, countries, which include Austria, Croatia,
+               the Czech Republic, Germany, Hungary, Poland, Slovakia, Slovenia, but also Belgium,
+               Sweden and Switzerland. This proves that Father Amandus’ music was known to a wide
+               audience and places him among the most popular monk-composers of the 18<hi
+                  rend="superscript">th</hi> century. </p>
+            <p xml:id="mams3-p-21">In his doctoral dissertation Danilo Pokorn divides Ivanschiz’s
+               chamber music into four groups: sonatas, trios, divertimentos and symphonies.<note
+                  place="foot" xml:id="ftn10-en" n="10">Pokorn, “Amandus Ivančič”, 134–143.</note>
+               Additionally, the last two terms appear equally as designations for orchestral works.
+               Such a division, based on the titles appearing in the extant manuscripts, was upheld
+               by the editions made under the supervision of Pokorn himself<note place="foot"
+                  xml:id="ftn11-en" n="11">Ivančič, <hi rend="italic">Sonate a tre</hi>; Ivančič,
+                     <hi rend="italic">Simfonije</hi>
+               </note> and Paul M. Douglas,<note place="foot" xml:id="ftn12-en" n="12">Amandus
+                     Ivanschiz,<hi rend="italic"> Six sonatas a tre for flute, viola, and basso
+                     continuo</hi>, vol. 1, <hi rend="italic">Nos. 1–3</hi>, ed. Paul M. Douglas
+                  (London: Nova Music, 1982).</note> suggesting that Ivanschiz’s chamber music
+               consists of four distinct genres. However, a comprehensive comparative examination of
+               all extant sources (many of which were yet unknown to Pokorn) later led to quite
+               different conclusions. Regardless of the titles occurring in manuscripts, all of
+               Ivanschiz’s chamber works fall within the genre of the string trio, which was
+               extremely popular during the eighteenth century, though today is somewhat
+                  neglected.<note place="foot" xml:id="ftn13-en" n="13">The importance of this genre
+                  is confirmed, for instance, by the fact that the number of string trios composed
+                  during 1750–1780 significantly exceeded that of quartets. See Barry S. Brook,
+                  “Haydn’s String Trios: A Misunderstood Genre”, <hi rend="italic">Current
+                     Musicology</hi> 36 (1983): 61–77. There is no reason to define the works under
+                  discussion as “belonging to the baroque genre of the trio sonata”, as Pokorn did
+                  (Ivančič, <hi rend="italic">Sonate a tre</hi>, <hi rend="smallcaps"
+                  >xvii</hi>).</note> The most common titles found on the front covers of
+               manuscripts are: “Trio”, “A tre”, “Divertimento” and “Sonata”. Less frequently, these
+               pieces are labelled “Simfonia” (or “Sinfonia”) and on a single occasion as a
+               “Sonatina”. However, these terms are applied interchangeably, without any relation to
+               the form and style of the compositions. Moreover, one and the same piece may appear
+               under different titles in manuscripts of different provenance. For example, the <hi
+                  rend="italic">Trio in C</hi> (T.C.1)<note place="foot" xml:id="ftn14-en" n="14"
+                  >Catalogue numbers of works by Ivanschiz after Jochymczyk, <hi rend="italic"
+                     >Amandus Ivanschiz</hi>.</note> is referred to variously as a “Trio”,<note
+                  place="foot" xml:id="ftn15-en" n="15">D-B, <ref
+                     target="http://resolver.staatsbibliothek-berlin.de/SBB00017A2800000000">Mus.ms.
+                     20375</ref>; and D-RH, Ms 437, <ref
+                     target="https://opac.rism.info/search?id=450016955&amp;View=rism">Ms
+                  867</ref>.</note> “Divertimento”,<note place="foot" xml:id="ftn16-en" n="16"
+                  >CZ-Bu, Skř 17-525.714.</note> “Sonata”,<note place="foot" xml:id="ftn17-en"
+                  n="17">D-KA, <ref target="https://nbn-resolving.de/urn:nbn:de:bsz:31-22650">Mus.
+                     Hs. 230</ref>.</note> “Sonatina”<note place="foot" xml:id="ftn18-en" n="18"
+                  >D-WÜd, KBD/KES K7 Ms091.</note> and “A tre”.<note place="foot" xml:id="ftn19-en"
+                  n="19">A-LA, <ref
+                     target="https://opac.rism.info/search?id=603000178&amp;View=rism"
+                  >254</ref>.</note> In the light of an analysis of extant copies of Ivanschiz’s
+               works, one may conclude that the use of one or another title was mainly connected
+               with local traditions. Such terminological freedom relating to new genres within
+               eighteenth-century instrumental music is well recognized in musicological
+                  literature.<note place="foot" xml:id="ftn20-en" n="20">See, for example, James
+                  Webster, “Towards a History of Viennese Chamber Music in the Early Classical
+                  Period”, <hi rend="italic">Journal of the American Musicological Society</hi> 27,
+                  no. 2 (1974): 213.</note>
+            </p>
+            <p xml:id="mams3-p-22">All Ivanschiz’s authenticated chamber works display clear
+               similarities, especially with regard to scoring and musical form. They are all (with
+               one exception: the <hi rend="italic">Trio in F</hi> T.F.1) tripartite compositions
+               constructed on the following model: (1) a slow movement – (2) a minuet with trio –
+               (3) a fast movement. The texture invariably comprises three voices, for performance
+               by solo instruments: the highest part is played by the violin and the middle part by
+               a violin or a viola, while the lowest part, named “basso” or “violoncello” in the
+               sources, calls for a low-pitched stringed instrument.<note place="foot"
+                  xml:id="ftn21-en" n="21">Ivanschiz was apparently one of the first composers to
+                  employ the characteristic scoring of the High Classical string trio (violin,
+                  viola, cello). See Maciej Jochymczyk, <ref
+                     target="https://doi.org/10.2478/muso-2014-0007">“Some Remarks on the Formation
+                     of the Classical Style: Instrumental Music by Amandus Ivanschiz”</ref>, <hi
+                     rend="italic">Musicology Today</hi> 10 (2013).</note>
+            </p>
+            <p xml:id="mams3-p-23">This is also the case for three works published by Danilo Pokorn
+               in the third volume of the <hi rend="italic">Monumenta artis musicae Sloveniae</hi>
+               series. All three were labelled in the edition as symphonies following the original
+               designations (“Simfonia”) as found on the covers of the manuscripts preserved in the
+               Archive of the Gesellschaft der Musikfreunde in Wien (A-Wgm). However, these works
+               conform perfectly to the above-mentioned features and indubitably belong to the genre
+               of the chamber string trio. In other copies they are entitled “Trio”,<note
+                  place="foot" xml:id="ftn22-en" n="22">D-DO, <ref
+                     target="https://opac.rism.info/search?id=450013483&amp;View=rism">Don Mus.Ms.
+                     822</ref>, today preserved in D-KA.</note> “Sonata à 3”<note place="foot"
+                  xml:id="ftn23-en" n="23">D-ZL, <ref
+                     target="https://opac.rism.info/search?id=456014392&amp;View=rism">no
+                     shelfmark</ref>, incorrectly attributed to Franz Asplmayr).</note> and
+                  “Divertimento”.<note place="foot" xml:id="ftn24-en" n="24">A-Wgm, IX 1069.</note>
+               All three pieces differ significantly from Ivanschiz’s symphonies in the matter of
+               form, tonal plan, scoring and musical language.<note place="foot" xml:id="ftn25-en"
+                  n="25">See Jochymczyk, <hi rend="italic">Amandus Ivanschiz</hi>, 250–269.</note>
+            </p>
+            <p xml:id="mams3-p-24">It should be noted here that in the archive of the Benedictine
+               monastery in Melk there are four other trios by Ivanschiz evidently written by the
+               same copyist and similarly labelled “Simfonia” (or “Sinfonia”).<note place="foot"
+                  xml:id="ftn26-en" n="26">A-M, V 1429, V 1430, V 1431, V 1432. The manuscripts in
+                  Melk were not included in the thematic catalogue in Jochymczyk, <hi rend="italic"
+                     >Amandus Ivanschiz</hi>. I would like to express my gratitude to Dr Johannes
+                  Prominczel at the Melk music archive for precious information and assistance
+                  concerning these sources.</note> Certainly, they originate from the same
+               collection as the sources preserved in Vienna. Moreover, on the covers of the
+               manuscripts from Melk an old, crossedout shelfmark of the A-Wgm collection is visible
+               (XIII 1325/gg).<note place="foot" xml:id="ftn27-en" n="27">The same shelfmark was
+                  originally assigned also to all three manuscripts held by the Gesellschaft der
+                  Musikfreunde in Vienna. The shelfmarks of the trios in B flat and in A were
+                  subsequently altered to XIII 8549/gg and XIII 8550/gg, respectively. I would like
+                  thank to Dr Marko Motnik from the A-Wgm for this information.</note> Unfortunately
+               the original provenance of all the discussed sources is unknown. Why, at one point,
+               some of the manuscripts from the A-Wgm found their way into the Melk collection also
+               needs further investigation.<note place="foot" xml:id="ftn28-en" n="28">According to
+                  Pokorn, the A-Wgm probably acquired the manuscripts around 1820. See Ivančič, <hi
+                     rend="italic">Simfonije</hi>, <hi rend="smallcaps">xiii</hi>. In 1838 four of
+                  the discussed sources were added to the Melk collection, as testified by
+                  annotations on the title pages. </note>
+            </p>
+            <p xml:id="mams3-p-25">As already mentioned, the lowest part in Ivanschiz’s trios calls
+               for a low-pitched melodic stringed instrument (cello or violone). This part is not
+               figured in any known manuscript; according to the sources, these compositions were
+               normally performed without any basso continuo accompaniment.<note place="foot"
+                  xml:id="ftn29-en" n="29">Ivanschiz’s works are not exceptional in this regard.
+                  According to James Webster, “the evidence that the continuo had been abandoned in
+                  secular Austrian chamber music by 1750 is overwhelming”. Webster, “Towards a
+                  History”, 243–244. See also Unverricht, <hi rend="italic">Geschichte des
+                     Streichtrios</hi>, 189–191.</note> Therefore, omission of the editorially added
+               “cembalo” part in Pokorn’s edition is recommended.</p>
+            <docAuthor xml:id="mams3-docAuthor-3">Maciej Jochymczyk</docAuthor>
+         </div>
+         <div type="preface" xml:id="uvod" xml:lang="sl" corresp="#introduction">
+            <head xml:id="mams3-head-11">Uvod</head>
+            <p xml:id="mams3-p-26">Amandus Ivančič (Ivanschiz, Ivanschitz, Ivancsics, Ivanschiitz)
+               in njegovo skladateljsko delo sta bila s kratkim orisom predstavljena v uvodu I.
+               zvezka te zbirke, v katerem je bil objavljen izbor njegovih triosonat.<note
+                  place="foot" xml:id="ftn30" n="30">MONUMENTA ARTIS MUSICAE SLOVENI AE, I, Amandus
+                  Ivančič. <hi rend="italic">Sonate a tre</hi>, red. D. Pokom. 1983. str. X
+                  XII.</note> Tam navedenim podatkom ni dodati nič bistveno novega. Po biografski
+               strani ostaja ta skladatelj iz 18. stoletja skrivnostna osebnost, o kateri ne vemo
+               drugega kot to, daje bil menih, član pavlinskega reda, in daje vsaj med letoma 1755
+               in 1758 živel v samostanu Maria Trost pri Gradcu. Pač pa je v Avstriji, Nemčiji, ožji
+               Češki, na Slovaškem in na Madžarskem prišlo medtem na dan več novih rokopisov
+               njegovih del, po večini nove kopije že znanih skladb, a tudi nekaj novih in prej
+               neznanih, med njimi Te Deum, še ena maša (vseh je tako v razvidu že enaindvajset),
+               ofertorij »Ardens est cor« in dvoje arij. Na naslovni strani Maše v C, ki se je našla
+               v samostanu Mattsee pri Salzburgu in je že osma doslej znana kopija te skladbe, avtor
+               ni naveden s svojim redovnim imenom Amandus, ampak kot Ivan (»A/dmodum/Reverendo
+               D/omino P/adre/ Johann Ivantschiz«), To bi utegnilo biti njegovo krstno ime, če
+               seveda ne gre za napako, kar je mogoče in celo verjetno. Skoraj gotovo se bodo v
+               prihodnosti še našli novi rokopisi del tega skladatelja, kajti glasbeni arhivi so
+               marsikje še neraziskani. Vendar že to, kar je znano, prepričljivo govori o tem, da je
+               bil Amandus Ivančič plodovit in v svojem času priljubljen skladatelj, saj je v
+               razvidu nič manj kot sto njegovih — izključno rokopisno ohranjenih — duhovnih in
+               posvetnih kompozicij in od posameznih se je že dozdaj našlo po več, sedem, osem, tudi
+               štirinajst primerkov.</p>
+            <p xml:id="mams3-p-27">Tri Ivančičeve simfonije za dve violini in bas, ki jih prinaša
+               pričujoča izdaja, navajajo s svojim naslovom »Simfonia« na misel, da gre pri njih za
+               triosimfonije, kakršne so bile v petdesetih in šestdesetih letih 18. stoletja pogoste
+               v dunajskem skladateljskem krogu in jih je deloma mogoče pojasniti s pomanjkanjem
+               violistov v takratnih glasbenih kapelah,<note place="foot" xml:id="ftn31" n="31"
+                  >LaRue J., <hi rend="italic">Die Entwicklung der Symphonie im 18.
+                  Jahrhundert</hi>. Musik in Geschichte und Gegenwart, 12, 1965. str. 1812.</note>
+               ali pa za skladbe, ki jih je — nemara po zgledu malo pred tem objavljenih »Six
+               sonates a trois parties concertantes qui sont faites pour executer ou a trois ou avec
+               toute l'orchestre« (1755) Jana Vaclava Stamica — bilo mogoče igrati tako v solistični
+               kot v korični izvajalski zasedbi. Po ciklični konstrukciji so ta dela popolnoma enaka
+               skladateljevim sonatam a tre. Imajo po tri stavke, od katerih je prvi Andantino ali
+               Andante, drugi menuet s triom, zadnji Allegro. Vsi stoje v isti tonaliteti. Od
+               skladateljevih tristavčnih simfonij se te skladbe razlikujejo predvsem v tem, da
+               nimajo počasnega srednjega stavka, ki ga Ivančič praviloma vedno postavlja v drugo,
+               največkrat v subdominantno tonaliteto.</p>
+            <p xml:id="mams3-p-28">Skladatelj sodi med predstavnike glasbenega sloga sredi 18.
+               stoletja, ki je bil most med barokom in klasicizmom. Stilne karakteristike, značilne
+               za njegova dela, zlasti še za posvetna, se kažejo tudi v teh simfonijah. Jasno
+               razvidne so v njih poteze galantnega in prvine občutljivega sloga, a slednjih je manj
+               in so manj izrazite. Glasbeno gradivo je pretežno drobna, maniristično oblikovana
+               motivika. Zunanji stavki nizov so v embrionalni zgodnjeklasicistični sonatni obliki
+               in sicer tridelni s popolno reprizo, kot je značilna za Ivančičeve simfonije, edino
+               uvodni Andantino Simfonije v A duru ima obliko dvodelne sonate z nepopolno reprizo,
+               na kakršno večkrat naletimo predvsem v njegovih triosonatah. Izpeljave so
+               rudimentarne, tematika dovolj kontrastna, dasi ne vedno v smislu jasnega tematskega
+               dualizma, ampak včasih v obliki več kontrastnih motivičnih členov. Posamezni stavki
+               zapuščajo zato vtis politematičnosti. Izvajalski sestav »a tre« za dve violini in bas
+               sodi med redkejše v skladateljevih triosonatah, kajti namesto violine uporablja v
+               njih kot drugi instrument raje violo. Bas ni oštevilčen in tak, kakršen je, kaže, da
+               so skladbe nastale v dobi, ko je continuo že odmiral. Ni pa še povsem odmrl, čas je
+               bil v tem pogledu izrazito prehodna doba, sam prehod pa počasen.<note place="foot"
+                  xml:id="ftn32" n="32">Geiringer K., <hi rend="italic">The Rise of Chamber
+                     Music</hi>. The New Oxford History of Music, VII, The Age of Enlightenment
+                  1745-1790, 1973, str. 549.</note> Verjeno so te simfonije še vedno igrali s
+               sodelovanjem instrumenta s tipkami.</p>
+            <p xml:id="mams3-p-29">Čas njihovega nastanka lahko določimo približno. Ena od treh
+               doslej znanih kopij Simfonije v B duru ima letnico 1765, izvirnik je nastal vsekakor
+               nekaj let prej. Omeniti pa velja to kopijo tudi zato, ker je na naslovni strani kot
+               kraj njenega nastanka naveden Rim. Ta podatek govori v prid domnevi, da se je Ivančič
+               morda šolal na sedežu pavlinskega reda v Rimu,<note place="foot" xml:id="ftn33"
+                  n="33">Flotzinger R. und Gruber G., <hi rend="italic">Musikgeschichte
+                     Osterreichs</hi>. II. 1979, str. 97.</note> vsekakor pa priča, da njegova dela
+               niso bila znana samo v srednjeevropskih deželah, ampak tudi v Italiji.</p>
+         </div>
+         <div type="preface" xml:id="introduction" xml:lang="en" corresp="#uvod">
+            <head xml:id="mams3-head-12">Introduction</head>
+            <p xml:id="mams3-p-30">Amandus Ivančič (Ivanschiz, Ivanschitz, Ivancsics, Ivanschütz)
+               and his oeuvre have been in a brief outline presented in the introduction to Volume I
+               of the present series, which contains a selection of his sonatas a tre.<note
+                  place="foot" xml:id="ftn30-en" n="30">MONUMENTA ARTIS MUSICAE SLOVENIAE, I,
+                  Amandus Ivančič. <hi rend="italic">Sonate a tre</hi>, cd. D. Pokom, 1983, str.
+                  XVI-XVIII.</note> The information given there cannot be as yet supplemented by
+               anything essentially new. As regards his life history, this 18th century composer is
+               still a mysterious person, about whom nothing more is known than that he was a monk,
+               a member of the Pauline order, and that at least between the years 1755 and 1758 he
+               lived at the Maria Trost monastery near Graz. But as regards his compositional
+               output, there have most recently come to light — in Austria, Germany, Bohemia,
+               Slovakia, and Hungary — some new manuscripts of his works; for the most part these
+               are new copies of compositions already known, but also a few hitherto unknown works,
+               among them Te Deum, another mass (so already twenty-one of them are on record), the
+               offertory "Ardens est cor", and two arias. On the title page of Mass in C, found at
+               the Mattsee monastery near Salzburg, this being the eighth copy of this composition
+               known so far, the author is not named by his monastic name Amandus but as Ivan ("
+               A/dmodum/ R/everendo/ D/omino/ P/adre/ Johann Ivantschiz"). This might be his
+               Christian name, unless a mistake had been made, which is possible and even probable.
+               It is almost certain than in the future other new manuscripts of works by this author
+               will be discovered, for in many places research in the musical archives has not yet
+               been carried out. However, the existing knowledge about him convincingly suggests
+               that Amandus Ivančič was a prolific and, in his time, popular composer: there are on
+               record as many as one hundred of his, exclusively in the manuscript form preserved,
+               sacred and secular compositions, and some of them have by now been found in several,
+               seven, eight, even fourteen copies.</p>
+            <p xml:id="mams3-p-31">Ivančič's three symphonies for two violins and bass, presented in
+               this volume, lead us with their title "Simfonia" to believe that they were conceived
+               as triosymphonies, such as were in the fifties and sixties of the 18th century common
+               among the Viennese composers and which may in part be due to the shortage of violists
+               in the bands at that time,<note place="foot" xml:id="ftn31-en" n="31"> LaRue J.. <hi
+                     rend="italic">Die Entwicklung der Symphonie im 18. Jahrhundert</hi>. Musik in
+                  Geschichte und Gegenwart, 12, 1965. col. 1812.</note> or as compositions which —
+               possibly following a little earlier published "Six sonates a trois parties
+               concertantes qui sont faites pour executer ou a trois ou avec toute l'orchestre"
+               (1755) by Jan Vaclav Stamic — could be performed either by soloists or by a larger,
+               orchestral, cast. By cyclic construc- tion these works are exactly of the same kind
+               as the composer's sonatas a tre. Each of them consists of three movements, of which
+               the first is Andantino or Andante, the second a Minuet with Trio, and the last
+               Allegro. All three are written in the same key. These compositions differ from the
+               composer's three-movement symphonies above all in that they do not have a slow middle
+               movement, which Ivančič regulary sets in a different, mostly subdominant, key.</p>
+            <p xml:id="mams3-p-32">The composer belongs among the representatives of the musical
+               style in the middle of the 18th century, which formed a bridge between baroque and
+               classicism. Stylistic characteristics, typical of his other, especially secular,
+               works, are clearly noticeable also in these symphonies. They display features of the
+               gallant and of the sensitive style, but the latter are fewer and less pronounced. The
+               musical material is mostly made up of tiny, manneristically modeled motifs. The
+               outside movements of the sequences are in an embryolike early-classicist sonata form
+               in three sections with full recapitulation — a characteristic of lvančič's
+               symphonies, only the introductory Andantino of Symphony in A has the form of a
+               two-part sonata with incomplete recapitulation, often found in his sonatas a tre. The
+               developments are rudimentary, themes sufficiently contrastive, although not always in
+               terms of clear thematic dualism but here and there in the form of several contrasting
+               motifs. Therefore individual movements give the impression of polythematicism. The
+               cast "a tre" for two violins and bass is not frequent in the composer's sonatas a
+               tre, for here he most often uses as the second instrument viola rather than violin.
+               Bass is not figured, and such as it is shows that at the time when the compositions
+               were written continuo was no longer much used. But it had not become completely
+               disused, the period of time was one of transition and the transition was slow.<note
+                  place="foot" xml:id="ftn32-en" n="32">Geiringer K., <hi rend="italic">The Rise of
+                     Chamber Music</hi>. The New Oxford History of Music, VII, The Age of
+                  Enlightenment 1745-1790, 1973, p. 549.</note> Probably these symphonies were still
+               played by casts including a keyboard instrument.</p>
+            <p xml:id="mams3-p-33">The time of their origin cannot be fixed precisely. One of the
+               three today known copies of Symphony in B flat has the year 1765; the original in any
+               case comes from a few years earlier. The same copy is valuable also because on the
+               title page as the place of its origin Rome is given. This detail speaks in favour of
+               the hypothesis that Ivančič might have studied at the seat of the Pauline order in
+                  Rome,<note place="foot" xml:id="ftn33-en" n="33">Flotzinger R. und Gruber G.. <hi
+                     rend="italic">Musikgeschichte Osterreichs</hi>, II, 1979, p. 97.</note> and it
+               certainly gives evidence that his works were known not only in Central European
+               countries but also in Italy.</p>
+         </div>
+         <div type="preface" xml:id="revizija" xml:lang="sl" corresp="#revision">
+            <head xml:id="mams3-head-13">Revizijsko poročilo</head>
+            <p xml:id="mams3-p-34">Kot predloge so bili za to izdajo uporabljeni rokopisi treh
+               simfonij Amandusa Ivančiča za dve violini in bas, ki jih hrani arhiv Društva
+               prijateljev glasbe na Dunaju. Rokopisi so prepisi glasov. Narejeni so z isto roko in
+               istega formata. Njihova provenienca je neznana, arhiv si je pridobil vse tri hkrati
+               okrog leta 1820.</p>
+            <p xml:id="mams3-p-35">Prva simfonija, Simfonija v G duru, ima signaturo XIII 1325/gg in
+               na naslovni strani napis »Simfonia ex G/Violino I<hi rend="superscript"
+               >mo</hi>/Violino II<hi rend="superscript">do</hi>/Basso/Del Sig<hi rend="superscript"
+                  >re</hi> Amando Ivanschiz«. Znana je samo v tem primerku, a navaja jo tudi
+               glasbeni inventar samostana Rajhrad na Moravskem iz leta 1771 (str. 186).</p>
+            <p xml:id="mams3-p-36">Rokopis druge simfonije, Simfonije v A duru, ima signaturo XIII
+               8550/gg ter naslov »Simfonia ex A/Violino I<hi rend="superscript">mo</hi>/Violi no
+                  II<hi rend="superscript">do</hi>/e/Basso/Del Sig<hi rend="superscript">re</hi>
+               Amando Ivanschiz«. Ta primerek je po doslej zbranih podatkih unikat.</p>
+            <p xml:id="mams3-p-37">Tretja simfonija, Simfonija v B duru, ima signaturo XIII 8549/gg
+               in napis »Simfonia ex B/Violino I<hi rend="superscript">imo</hi>/Violino II<hi
+                  rend="superscript">do</hi>/ e/Baso/Del Sig<hi rend="superscript">e</hi> Amando
+               Ivanschiz«. V razvidu sta še dve kopiji te skladbe. Prva od njiju je prav tako v
+               arhivu Društva prijateljev glasbe na Dunaju (sign. IX 1069) in je v naslovu označena
+               kot Divertimento. Drugo hrani Dvorna biblioteka knezov Furstenbergov v
+               Donaueschingenu (Mus. Ms. 822), ima naslov Trio in je pisana v C duru. Rokopis nosi
+               na naslovni strani zaznamek »Roma 1765«.</p>
+            <p xml:id="mams3-p-38">Notni tekst simfonij je posnet zvesto po izvirnikih, a pisava je
+               modernizirana, popravljene so kopistove napake in delno dodana znamenja za dinamiko,
+               artikulacijo in okraske, ki so v virih pomanjkljiva, nedosledna, večkrat tudi
+               nejasna. Vsi ti posegi so v notnem tekstu označeni z oglatimi oklepaji, v zadnjem
+               delu revizijskega poročila pa podrobneje pojasnjeni. Dodan je še generalni bas. Basov
+               part v predlogah sicer ni oštevilčen, a čas nastanka teh kompozicij in njihov
+               razmeroma redki kompozicijski stavek govorita v prid akordični spremljavi ali jo vsaj
+               dopuščata. Pri realizaciji so bile upoštevane osnove, po katerih sta se ravnala J. S.
+               Bach in njegova doba. Vešč izvajalec continua bo znal na čembalu ali klavirju z
+               registri ali gostejšimi prijemi na podlagi parta. ki ga prinaša ta izdaja, slediti
+               dinamiki skladb in upoštevati tudi morebitno močnejšo, korično zasedbo v godalih.</p>
+            <list type="gloss" xml:id="mams3-list-1">
+               <label>I. Simfonija v G duru</label>
+               <item>
+                  <list type="gloss">
+                     <label>Andantino</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 29, I. violina</label>
+                           <item>prva nota na četrto dobo v predlogi notirana kot osminka, enako
+                              tudi prva nota na drugo dobo v t. 32.</item>
+                        </list>
+                     </item>
+                     <label>Menuet</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 9, II. violina</label>
+                           <item>v izvirniku na tretjo dobo namesto triol dve šestnajstinki — d' in
+                              h.</item>
+                        </list>
+                     </item>
+                     <label>Finale</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 42, II. violina</label>
+                           <item>v predlogi prva osminka c".</item>
+                           <label>t. 58, II. violina</label>
+                           <item>v predlogi prva osminka a'.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <label>II. Simfonija v A duru</label>
+               <item>
+                  <list type="gloss">
+                     <label>Andantino</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 23, II. violina</label>
+                           <item>v predlogi prva šestnajstinka fis".</item>
+                        </list>
+                     </item>
+                     <label>Menuet</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 16, 1. violina</label>
+                           <item>druga osminka v predlogi d" (z razveznikom).</item>
+                           <label>t. 26, 1. violina</label>
+                           <item>v izvirniku prvi dve noti pisani kot četrtinki, zadnji dve kot
+                              osminki; očiten pogrešek prepisovalca.</item>
+                        </list>
+                     </item>
+                     <label>Finale</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 17, I. violina</label>
+                           <item>v predlogi prva osminka na drugo dobo gis".</item>
+                           <label>t. 53, bas</label>
+                           <item>v izvirniku četrtinka na drugo dobo fis.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <label>III. Simfonija v B duru</label>
+               <item>
+                  <list type="gloss">
+                     <label>Andante</label>
+                     <item>v predlogi ima stavek v glasu I. violine naslov Andante, v ostalih dveh
+                        glasovih pa Andantino. Enako v prepisu IX 1069. V kopiji, ki jo hrani Dvorna
+                        biblioteka v Donaueschingenu, je stavek označen dosledno kot Andante.<list
+                           type="gloss">
+                           <label>t. 8, bas</label>
+                           <item>zadnja šestnajstinka na prvo dobo v predlogi d.</item>
+                           <label>t. 22, II. violina</label>
+                           <item>v predlogi prva osminka g'.</item>
+                        </list>
+                     </item>
+                     <label>Finale</label>
+                     <item>
+                        <list type="gloss">
+                           <label>t. 3, II. violina</label>
+                           <item>osminka na drugo dobo v izvirniku c".</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="preface" xml:id="revision" xml:lang="en" corresp="#revizija">
+            <head xml:id="mams3-head-14">Revision Report</head>
+            <p xml:id="mams3-p-39">As sources for the present edition of Amandus Ivančič's three
+               symphonies for two violins and bass the manuscripts kept in the Archiv der
+               Gesellschaft der Musikfreunde in Vienna have been used. These manuscripts are copies
+               of the parts, written by the same hand and of the same format. Their provenience is
+               unknown, the archiv has acquired all three at the same time around the year 1820.</p>
+            <p xml:id="mams3-p-40">The first symphony, Symphony in G, has the classification number
+               XIII 1325/gg and on the title page the inscription "Simfonia ex G/Violino I<hi
+                  rend="superscript">mo</hi>/Violino II<hi rend="superscript">do</hi>/e/Basso/ del
+                  Sig<hi rend="superscript">re</hi> Amando Ivanschiz". It is known only in this
+               copy, but it is listed also in the musical inventory of the Rajhrad monastery in
+               Moravia from the year 1771 (p. 186).</p>
+            <p xml:id="mams3-p-41">The manuscript of the second symphony. Symphony in A, bears the
+               shelf mark XIII 8550/gg and the title "Simfonia ex A/Violino I<hi rend="superscript"
+                  >mo</hi>/Violino II<hi rend="superscript">do</hi>/e/Basso / Del Sig<hi
+                  rend="superscript">re</hi> Amando Ivanschiz". According to what is known so far
+               this work is extant only in this one copy.</p>
+            <p xml:id="mams3-p-42">The third symphony. Symphony in B flat, has the classifica- tion
+               number XIII 8549/gg and the inscription "Simfonia ex B/Violino I<hi
+                  rend="superscript">imo</hi>/Violino II<hi rend="superscript">do</hi>/e/Basso/ Del
+                  Sig<hi rend="superscript">e</hi> Amando Ivanschiz". Another two copies of this
+               symphony are known to exist. The first of them is likewise in the Archiv der
+               Gesellschaft der Musikfreunde in Vienna (IX 1069) and is designated as Divertimento.
+               The second is kept in the Fürstlich Fürstenbergische Hofbibliothek at Donaueschingen
+               (Mus. Ms. 822), it is entitled Trio and written in C major. This manuscript bears on
+               the front page the note "Roma 1765".</p>
+            <p xml:id="mams3-p-43">The text of the three symphonies is throughout faithful to the
+               originals, but the notation is modernized, the mistakes of the copyist have been
+               corrected and in part signs for dynamics, articulation and ornamentation have been
+               added, in the sources these signs being defective, inconsistent, occasionally
+               unclear. All such additions are in the musical text put in square brackets and here
+               below explained in detail. Added is also the basso continuo. The part of the bass is
+               not figured in the basic texts, but the time of the origin of these compositions and
+               their comparatively modest texture speak in favour of accordal accompaniment or at
+               least permit it. In the realisation principles followed by J. S. Bach and his period
+               were observed. A skilled performer of continuo will know on harpsichord or on the
+               piano with registers or with more dense stops how to — on the basis of the part
+               presented in our edition — follow the dynamics of the compositions and pay due regard
+               for a possibly stronger cast of the strings.</p>
+            <list type="gloss" xml:id="mams3-list-13">
+               <label>I. Symphony in G</label>
+               <item>
+                  <list type="gloss">
+                     <label>Andantino</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 29, I<hi rend="superscript">st</hi> violin</label>
+                           <item>first note on the fourth beat noted in basic text as a quaver,
+                              likewise the first note on the second beat in b. 32.</item>
+                        </list>
+                     </item>
+                     <label>Minuet</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 9, II<hi rend="superscript">nd</hi> violin</label>
+                           <item>in the manuscript on the third beat instead of triplet two
+                              semi-quavers — d' and b.</item>
+                        </list>
+                     </item>
+                     <label>Finale</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 42, II<hi rend="superscript">nd</hi> violin</label>
+                           <item>in the source the first quaver c".</item>
+                           <label>b. 58, II<hi rend="superscript">nd</hi> violin</label>
+                           <item>in the source the first quaver a'.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <label>II. Symphony in A</label>
+               <item>
+                  <list type="gloss">
+                     <label>Andantino</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 23, II<hi rend="superscript">nd</hi> violin</label>
+                           <item>in the basic text first semiquaver f" sharp.</item>
+                        </list>
+                     </item>
+                     <label>Minuet</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 16. I<hi rend="superscript">st</hi> violin</label>
+                           <item>second quaver in the source d" (with natural).</item>
+                           <label>b. 26, I<hi rend="superscript">st</hi> violin</label>
+                           <item>in the manuscript first two notes written as crochets, last two as
+                              quavers; obviously a mistake by the copyist.</item>
+                        </list>
+                     </item>
+                     <label>Finale</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 17, I<hi rend="superscript">st</hi> violin</label>
+                           <item>first quaver on the second beat g" sharp.</item>
+                           <label>b. 53, bass</label>
+                           <item>crochet on the second beat f sharp.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <label>III. Symphony in B flat</label>
+               <item>
+                  <list type="gloss">
+                     <label>Andante</label>
+                     <item>in the basic text this movement is in the I<hi rend="superscript">st</hi>
+                        violin part designated as Andante, in other two parts as Andantino. Same in
+                        the copy IX 1069. In the manuscript kept in the Fürstlich Fürstenbergische
+                        Hofbibliothek at Donaueschingen the movement is consistently designatedas
+                           Andante.<list type="gloss">
+                           <label>b. 8, bass</label>
+                           <item>last semiquaver on the first beat d.</item>
+                           <label>b. 22, II<hi rend="superscript">nd</hi> violin</label>
+                           <item>in the source the first quaver g'.</item>
+                        </list>
+                     </item>
+                     <label>Finale</label>
+                     <item>
+                        <list type="gloss">
+                           <label>b. 3, II<hi rend="superscript">nd</hi> violin</label>
+                           <item>quaver on the second beat c".</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="preface" xml:id="faksimile" xml:lang="sl" corresp="#fascimiles">
+            <head xml:id="mams3-head-15">Izvirni Faksimili</head>
+            <figure xml:id="facs-1">
+               <graphic url="media/facs1.jpg"/>
+               <head>Amandus Ivanschiz, <hi rend="italic">Simfonia ex G</hi> (A-Wgm, XIII
+                  1325)</head>
+            </figure>
+            <figure xml:id="facs-2">
+               <graphic url="media/facs2.jpg"/>
+               <head>Amandus Ivanschiz, <hi rend="italic">Simfonia ex G</hi>, Violino I (A-Wgm, XIII
+                  1325)</head>
+            </figure>
+         </div>
+         <div type="preface" xml:id="fascimiles" xml:lang="en" corresp="#faksimile">
+            <head xml:id="mams3-head-18">Fascimiles of the Original Edition</head>
+            <figure xml:id="facs-1-en">
+               <graphic url="media/facs1.jpg"/>
+               <head>Amandus Ivanschiz, <hi rend="italic">Simfonia ex G</hi> (A-Wgm, XIII
+                  1325)</head>
+            </figure>
+            <figure xml:id="facs-2-en">
+               <graphic url="media/facs2.jpg"/>
+               <head>Amandus Ivanschiz, <hi rend="italic">Simfonia ex G</hi>, Violino I (A-Wgm, XIII
+                  1325)</head>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="chapter" xml:id="simfonia-1" xml:lang="sl" corresp="#simfonia-1-en">
+            <head xml:id="mams3-head-21">I. Simfonia ex G</head>
+            <notatedMusic xml:id="mams3-notatedMusic-1">
+               <graphic url="media/simfonia_1.pdf" mimeType="application/pdf"/>
+            </notatedMusic>
+         </div>
+         <div type="chapter" xml:id="simfonia-1-en" xml:lang="en" corresp="#simfonia-1">
+            <head xml:id="mams3-head-22">I. Simfonia ex G</head>
+            <notatedMusic xml:id="mams3-notatedMusic-2">
+               <graphic url="media/simfonia_1.pdf" mimeType="application/pdf"/>
+            </notatedMusic>
+         </div>
+         <div type="chapter" xml:id="simfonia-2" xml:lang="sl" corresp="#simfonia-2-en">
+            <head xml:id="mams3-head-23">II. Simfonia ex A</head>
+            <notatedMusic xml:id="mams3-notatedMusic-3">
+               <graphic url="media/simfonia_2.pdf" mimeType="application/pdf"/>
+            </notatedMusic>
+         </div>
+         <div type="chapter" xml:id="simfonia-2-en" xml:lang="en" corresp="#simfonia-2">
+            <head xml:id="mams3-head-24">II. Simfonia ex A</head>
+            <notatedMusic xml:id="mams3-notatedMusic-4">
+               <graphic url="media/simfonia_2.pdf" mimeType="application/pdf"/>
+            </notatedMusic>
+         </div>
+         <div type="chapter" xml:id="simfonia-3" xml:lang="sl" corresp="#simfonia-3-en">
+            <head xml:id="mams3-head-25">III. Simfonia ex B</head>
+            <notatedMusic xml:id="mams3-notatedMusic-5">
+               <graphic url="media/simfonia_3.pdf" mimeType="application/pdf"/>
+            </notatedMusic>
+         </div>
+         <div type="chapter" xml:id="simfonia-3-en" xml:lang="en" corresp="#simfonia-3">
+            <head xml:id="mams3-head-26">III. Simfonia ex B</head>
+            <notatedMusic xml:id="mams3-notatedMusic-6">
+               <graphic url="media/simfonia_3.pdf" mimeType="application/pdf"/>
+            </notatedMusic>
+         </div>
+      </body>
+      <back>
+         <div type="appendix" xml:id="corrigenda-1984" xml:lang="sl" corresp="#corrigenda-1984-en">
+            <head xml:id="mams3-head-27">Corrigenda 1984</head>
+            <list type="gloss" xml:id="mams3-list-25">
+               <label>Str. 2, t. 9</label>
+               <item>
+                  <list type="gloss">
+                     <label>čembalo, desna roka</label>
+                     <item>pred drugo šestnajstinko na tretjo dobo manjka višaj</item>
+                  </list>
+               </item>
+               <label>Str. 17, t. 56,</label>
+               <item>
+                  <list type="gloss">
+                     <label>čembalo, desna roka</label>
+                     <item>pravilno <graphic url="media/corrigenda-1.jpg" height="50px"/>
+                     </item>
+                  </list>
+               </item>
+               <label>Str. 19, t. 7,</label>
+               <item>
+                  <list type="gloss">
+                     <label>čembalo, desna roka</label>
+                     <item>pravilno <graphic url="media/corrigenda-2.jpg" height="50px"/>
+                     </item>
+                  </list>
+               </item>
+               <label>Str. 19, t. 8</label>
+               <item>
+                  <list type="gloss">
+                     <label>I. violina</label>
+                     <item>pred zadnjo noto manjka razveznik</item>
+                     <label>čembalo, desna roka</label>
+                     <item>v prvem akordu manjka razveznik pred najvišjo noto</item>
+                  </list>
+               </item>
+               <label>Str. 20, t. 16</label>
+               <item>
+                  <list type="gloss">
+                     <label>čembalo, desna roka</label>
+                     <item>zadnji akord je v vrednosti osminke</item>
+                  </list>
+               </item>
+               <label>Str. 36, t. 37</label>
+               <item>
+                  <list type="gloss">
+                     <label>čembalo, leva roka</label>
+                     <item>zadnja osminka F</item>
+                  </list>
+               </item>
+               <label>Str. 45, t. 53</label>
+               <item>
+                  <list type="gloss">
+                     <label>čembalo, desna roka</label>
+                     <item>pravilno <graphic url="media/corrigenda-3.jpg" height="50px"/>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="appendix" xml:id="corrigenda-1984-en" xml:lang="en" corresp="#corrigenda-1984">
+            <head xml:id="mams3-head-28">Corrigenda 1984</head>
+            <list type="gloss" xml:id="mams3-list-33">
+               <label>P. 2, b. 9</label>
+               <item>
+                  <list type="gloss">
+                     <label>harpsichord, right hand</label>
+                     <item>before second semiquaver on the third beat sharp is missing</item>
+                  </list>
+               </item>
+               <label>P. 17, n. 56</label>
+               <item>
+                  <list type="gloss">
+                     <label>harpsichord, rieht hand</label>
+                     <item>correctly <graphic url="media/corrigenda-1.jpg" height="50px"/>
+                     </item>
+                  </list>
+               </item>
+               <label>P. 19, b. 7</label>
+               <item>
+                  <list type="gloss">
+                     <label>harpsichord, right hand</label>
+                     <item>correctly <graphic url="media/corrigenda-2.jpg" height="50px"/>
+                     </item>
+                  </list>
+               </item>
+               <label>P. 19, B. 8</label>
+               <item>
+                  <list type="gloss">
+                     <label>I<hi rend="italic">st</hi> violin</label>
+                     <item>before the last note natural is missing</item>
+                     <label>harpsichord, right hand</label>
+                     <item>in the first chord natural is missing before the upper note</item>
+                  </list>
+               </item>
+               <label>P. 20, b. 16</label>
+               <item>
+                  <list type="gloss">
+                     <label>harpsichord, right hand</label>
+                     <item>the last chord has the value of a quaver</item>
+                  </list>
+               </item>
+               <label>P. 36, B. 37</label>
+               <item>
+                  <list type="gloss">
+                     <label>harpsichord, left hand</label>
+                     <item>last quaver F</item>
+                  </list>
+               </item>
+               <label>P. 45, b. 53</label>
+               <item>
+                  <list type="gloss">
+                     <label>harpsichord, right hand</label>
+                     <item>correctly <graphic url="media/corrigenda-3.jpg" height="50px"/>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="appendix" xml:id="corrigenda" xml:lang="sl" corresp="#corrigenda-en">
+            <head xml:id="mams3-head-29">Corrigenda</head>
+            <list rend="unordered" xml:id="mams3-list-41">
+               <item>Vse tri skladbe sodijo v zvrst godalnih triov.</item>
+               <item>Part za “Cembalo” je bil uredniško dodan leta 1983 in ga je treba pri izvedbi
+                  opustiti.</item>
+            </list>
+            <div type="subchapter" xml:id="corrigenda.1">
+               <head xml:id="mams3-head-30">Revizijsko poročilo</head>
+               <p xml:id="mams3-p-44">Nadaljnji viri za skladbe, ki jih je objavil Pokorn so
+                  navedeni spodaj in za vse so dodane nove kataložne številke.</p>
+               <div type="subsubchapter" xml:id="corrigenda.1.1">
+                  <head xml:id="mams3-head-31">I. Simfonia ex G, tj. Trio v G duru [T.G.2] </head>
+                  <p xml:id="mams3-p-45">A-Wgm, XIII 1325 (olim: XIII 1325). To je edini ohranjeni
+                     vir te skladbe. Sicer pa je bilo to delo zabeleženo tudi v inventarju muzikalij
+                     benediktinskega samostana v Rajhradu, kjer ga najdemo zavedenega pod imenom
+                     Ivanschiz (v razdelku <hi rend="italic">Parthiae a Quadro et A Tre</hi> na
+                     strani 186).<note place="foot" xml:id="ftn34" n="34">Inventar danes hrani
+                        CZ-Bm.</note>
+                  </p>
+               </div>
+               <div type="subsubchapter" xml:id="corrigenda.1.2">
+                  <head xml:id="mams3-head-32">II. Simfonia ex A, t.j.Trio v A duru [T.A.1]</head>
+                  <p xml:id="mams3-p-46">A-Wgm, XIII 8550 (olim: XIII 8550). Skladba je ohranjena
+                     tudi v D-ZL, <ref
+                        target="https://opac.rism.info/search?id=456014392&amp;View=rism">brez
+                        signature</ref>), kjer je napačno pripisana Franzu Asplmayrju. Primerjava z
+                     ostalimi godalnimi trii obeh skladateljev pritrjuje Ivanschizevemu
+                     avtorstvu.</p>
+               </div>
+               <div type="subsubchapter" xml:id="corrigenda.1.3">
+                  <head xml:id="mams3-head-33">III. Simfonia ex B, tj.Trio v B duru [T.B.2]</head>
+                  <p xml:id="mams3-p-47">A-Wgm, XIII 8549 (olim: XIII 8549). Skladba je ohranjena še
+                     v dveh prepisih, ki ju omenja tudi Pokorn: A-Wgm, IX 1069, in drugi, izdelan v
+                     Rimu leta 1765, ki se nahaja v zbirki Dvorne knjižnice knezov Fürstenberg iz
+                     Donaueschingena, ki jo danes hrani Badenska deželna knjižnica v Karlsruheju
+                     (D-DO, <ref target="https://nbn-resolving.de/urn:nbn:de:bsz:31-82357">Don
+                        Mus.Ms. 822</ref>). </p>
+               </div>
+            </div>
+            <docAuthor xml:id="mams3-docAuthor-4">Maciej Jochymczyk</docAuthor>
+            <closer xml:id="mams3-closer-2">Poslovenila Metoda Kokole</closer>
+         </div>
+         <div type="appendix" xml:id="corrigenda-en" xml:lang="en" corresp="#corrigenda">
+            <head xml:id="mams3-head-34">Corrigenda</head>
+            <list type="unordered" xml:id="mams3-list-42">
+               <item>All three published pieces belong to the genre of the chamber string
+                  trio.</item>
+               <item>The part for “Cembalo” was editorially added in 1983 and should be omitted in
+                  performance.</item>
+            </list>
+            <div type="subchapter" xml:id="corrigenda-en.1">
+               <head xml:id="mams3-head-35">Critical Report</head>
+               <p xml:id="mams3-p-48">Further sources of the compositions edited by Pokorn are
+                  listed below together with the current catalogue numbers.</p>
+               <div type="subsubchapter" xml:id="corrigenda-en.1.1">
+                  <head xml:id="mams3-head-36">I. Simfonia ex G, i.e. Trio in G [T.G.2] </head>
+                  <p xml:id="mams3-p-49">A-Wgm, XIII 1325 (olim: XIII 1325). This is the only
+                     preserved copy. The composition also appears in the music inventory of the
+                     Benedictine monastery in Rajhrad, where it is listed under Ivanschiz’s name (in
+                     the section entitled <hi rend="italic">Parthiae a Quadro et A Tre</hi>, on page
+                        186).<note place="foot" xml:id="ftn34-en" n="34">This inventory is currently
+                        held at CZ-Bm.</note>
+                  </p>
+               </div>
+               <div type="subsubchapter" xml:id="corrigenda-en.1.2">
+                  <head xml:id="mams3-head-37">II. Simfonia ex A, i.e. Trio in A [T.A.1]</head>
+                  <p xml:id="mams3-p-50">A-Wgm, XIII 8550 (olim: XIII 8550). The composition
+                     survives also in D-ZL, <ref
+                        target="https://opac.rism.info/search?id=456014392&amp;View=rism">no
+                        shelfmark</ref>), where it is incorrectly attributed to Franz Asplmayr. A
+                     comparison with other string trios by both composers confirms Ivanschiz’s
+                     authorship.</p>
+               </div>
+               <div type="subsubchapter" xml:id="corrigenda-en.1.3">
+                  <head xml:id="mams3-head-38">III. Simfonia ex B, i.e. Trio in B flat
+                     [T.B.2]</head>
+                  <p xml:id="mams3-p-51">A-Wgm, XIII 8549 (olim: XIII 8549). The composition
+                     survives in two further copies, both already mentioned by Pokorn: A-Wgm, IX
+                     1069, and one written in Rome in 1765 that belongs to the collection of the
+                     Fürstlich Fürstenbergische Hofbibliothek in Donaueschingen and is currently
+                     housed at the Badische Landesbibliothek in Karlsruhe (D-DO, <ref
+                        target="https://nbn-resolving.de/urn:nbn:de:bsz:31-82357">Don Mus.Ms.
+                        822</ref>). </p>
+               </div>
+            </div>
+            <docAuthor xml:id="mams3-docAuthor-5">Maciej Jochymczyk</docAuthor>
+         </div>
+      </back>
+   </text>
+</TEI>
